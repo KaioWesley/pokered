@@ -1,55 +1,56 @@
 _OakSpeechText1::
-	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	text "Ola!"
+	line "Seja bem vindo ao"
+	cont "mundo dos #MON!"
 
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	para "Me chamo OAK!"
+	line "Mas as pessoas me"
+	cont "chamam de Prof. #MON!"
 	prompt
 
 _OakSpeechText2A::
-	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
-	cont "#MON!@@"
+	text "Este mundo é"
+	line "habitado por"
+	cont "criaturas chamadas"
+	cont "de #MON!@@"
 
 _OakSpeechText2B::
-	text $51,"For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	text $51,"Para alguns,"
+	line "#MON são animais"
+    cont "de estimaçao."
+    cont "Outros usam"
+	cont "para Lutas."
 
-	para "Myself..."
+	para "Ja eu..."
 
-	para "I study #MON"
-	line "as a profession."
+	para "Estudo os #MON"
+	line "como profissao."
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
-	line "your name?"
+	text "Mas primeiro!"
+	line "Qual o seu nome?"
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	text "Este e meu neto"
+	line "Voces sempre foram"
+	cont "rivais desde que"
+	cont "eu me lembro."
 
-	para "...Erm, what is"
-	line "his name again?"
+	para "Voce sabe qual"
+	line "e o nome dele?"
 	prompt
 
 _OakSpeechText3::
 	text "<PLAYER>!"
 
-	para "Your very own"
-	line "#MON legend is"
-	cont "about to unfold!"
+	para "Comece sua jornada"
+	line "#MON, e se torne"
+	cont "uma lenda!"
 
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
+	para "um mundo de sonhos"
+	line "e aventuras"
+	cont "com #MON esta para"
+	cont "começar! BOA SORTE!"
 	done
