@@ -16,7 +16,7 @@ _OakSpeechText2A::
 
 _OakSpeechText2B::
 	text $51,"Para alguns,"
-	line "#MON são animais"
+	line "#MON sao animais"
     cont "de estimaçao."
     cont "Outros usam"
 	cont "para Lutas."

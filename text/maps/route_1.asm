@@ -1,45 +1,46 @@
 _Route1ViridianMartSampleText::
-	text "Hi! I work at a"
+	text "Oi! Eu trabalho na"
 	line "#MON MART."
 
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
+	para "É uma loja de"
+	line "conveniencia, por favor"
+	cont "nos visite na"
 	cont "VIRIDIAN CITY."
 
-	para "I know, I'll give"
-	line "you a sample!"
-	cont "Here you go!"
+	para "Irei dar uma"
+	line "pequena amostra!"
+	cont "Aqui esta!"
 	prompt
 
 _Route1Text_1cae8::
-	text "<PLAYER> got"
+	text "<PLAYER> obteve"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"
 
 _Route1Text_1caee::
-	text "We also carry"
-	line "# BALLs for"
-	cont "catching #MON!"
+	text "nos tambem vendemos"
+	line "# BALLs para"
+	cont "capturar os #MON!"
 	done
 
 _Route1Text_1caf3::
-	text "You have too much"
-	line "stuff with you!"
+	text "Voce esta cheio!"
+	line "esvazie a mochila,"
+    cont "e volte"
 	done
 
 _Route1Text2::
-	text "See those ledges"
-	line "along the road?"
+	text "esta vendo as pequenas"
+	line "elevacoes na estrada?"
 
-	para "It's a bit scary,"
-	line "but you can jump"
-	cont "from them."
+	para "Voce pode pular elas,"
+	line "mas cuidado para"
+	cont "nao se machucar."
 
-	para "You can get back"
-	line "to PALLET TOWN"
-	cont "quicker that way."
+	para "Use para voltar"
+	line "para PALLET TOWN"
+	cont "mais rapido."
 	done
 
 _Route1Text3::
