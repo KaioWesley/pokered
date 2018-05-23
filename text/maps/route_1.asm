@@ -2,7 +2,7 @@ _Route1ViridianMartSampleText::
 	text "Oi! Eu trabalho na"
 	line "#MON MART."
 
-	para "É uma loja de"
+	para "E uma loja de"
 	line "conveniencia, por favor"
 	cont "nos visite na"
 	cont "VIRIDIAN CITY."
