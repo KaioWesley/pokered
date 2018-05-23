@@ -1,7 +1,7 @@
 _DaisyInitialText::
 	text "Oi <PLAYER>!"
 	line "<RIVAL> esta no"
-	cont "laboratorio do vovo."
+	cont "laboratorio agora."
 	done
 
 _DaisyOfferMapText::

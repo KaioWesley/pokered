@@ -1,13 +1,15 @@
 _MomWakeUpText::
-	text "MOM: Certo."
-	line "Todos os meninos saem"
-	cont "da casa algum dia."
-	cont "E isso que diz."
+	text "MAE: Certo."
+	line "Todos os garotos"
+	cont "saem de casa"
+    cont "algum dia."
+	cont "E isso que diz"
     cont "na televisao"
 
-	para "PROF.OAK, Proxima"
-	line "porta, esta procurando"
-	cont "por voce."
+	para "PROF.OAK esta"
+	line "no laboratorio"
+    cont "dele e esta"
+	cont "procurando voce."
 	done
 
 _MomHealText1::

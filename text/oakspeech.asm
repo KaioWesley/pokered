@@ -5,7 +5,8 @@ _OakSpeechText1::
 
 	para "Me chamo OAK!"
 	line "Mas as pessoas me"
-	cont "chamam de Prof. #MON!"
+	cont "chamam de"
+    cont "Prof. #MON!"
 	prompt
 
 _OakSpeechText2A::
@@ -16,8 +17,9 @@ _OakSpeechText2A::
 
 _OakSpeechText2B::
 	text $51,"Para alguns,"
-	line "#MON sao animais"
-    cont "de estimacao."
+	line "#MON sao" 
+    cont "animais de"
+    cont "estimacao."
     cont "Outros usam"
 	cont "para Lutas."
 
@@ -34,8 +36,9 @@ _IntroducePlayerText::
 
 _IntroduceRivalText::
 	text "Este e meu neto"
-	line "Voces sempre foram"
-	cont "rivais desde que"
+	line "Voces sempre"
+    cont "foram rivais"
+	cont "desde que"
 	cont "eu me lembro."
 
 	para "Voce sabe qual"
@@ -46,11 +49,13 @@ _OakSpeechText3::
 	text "<PLAYER>!"
 
 	para "Comece sua jornada"
-	line "#MON, e se torne"
-	cont "uma lenda!"
+	line "#MON, e se "
+	cont "torne uma"
+    cont "lenda!"
 
 	para "um mundo de sonhos"
 	line "e aventuras"
-	cont "com #MON esta para"
-	cont "comecar! BOA SORTE!"
+	cont "com #MON esta"
+	cont "para comecar!"
+    cont "BOA SORTE!"
 	done

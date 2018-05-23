@@ -192,30 +192,30 @@ DefaultNamesPlayer:
 	db   "NEW NAME"
 	next "RED"
 	next "ASH"
-	next "JACK"
+	next "BRENDAN"
 	db   "@"
 
 DefaultNamesRival:
 	db   "NEW NAME"
 	next "BLUE"
 	next "GARY"
-	next "JOHN"
+	next "ETHAN"
 	db   "@"
 ENDC
 
 IF DEF(_BLUE)
 DefaultNamesPlayer:
 	db   "NEW NAME"
-	next "BLUE"
-	next "GARY"
-	next "JOHN"
+	next "RED"
+	next "ASH"
+	next "BRENDAN"
 	db   "@"
 
 DefaultNamesRival:
 	db   "NEW NAME"
-	next "RED"
-	next "ASH"
-	next "JACK"
+	next "BLUE"
+	next "GARY"
+	next "ETHAN"
 	db   "@"
 ENDC
 
@@ -248,24 +248,24 @@ DefaultNamesPlayerList:
 	db "NEW NAME@"
 	db "RED@"
 	db "ASH@"
-	db "JACK@"
+	db "BRENDAN@"
 DefaultNamesRivalList:
 	db "NEW NAME@"
 	db "BLUE@"
 	db "GARY@"
-	db "JOHN@"
+	db "ETHAN@"
 ENDC
 IF DEF(_BLUE)
 DefaultNamesPlayerList:
 	db "NEW NAME@"
-	db "BLUE@"
-	db "GARY@"
-	db "JOHN@"
-DefaultNamesRivalList:
-	db "NEW NAME@"
 	db "RED@"
 	db "ASH@"
-	db "JACK@"
+	db "BRENDAN@"
+DefaultNamesRivalList:
+	db "NEW NAME@"
+	db "BLUE@"
+	db "GARY@"
+	db "ETHAN@"
 ENDC
 
 TextTerminator_6b20:
