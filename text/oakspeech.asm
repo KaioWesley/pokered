@@ -9,7 +9,7 @@ _OakSpeechText1::
 	prompt
 
 _OakSpeechText2A::
-	text "Este mundo é"
+	text "Este mundo e"
 	line "habitado por"
 	cont "criaturas chamadas"
 	cont "de #MON!@@"
@@ -17,7 +17,7 @@ _OakSpeechText2A::
 _OakSpeechText2B::
 	text $51,"Para alguns,"
 	line "#MON sao animais"
-    cont "de estimaçao."
+    cont "de estimacao."
     cont "Outros usam"
 	cont "para Lutas."
 
@@ -52,5 +52,5 @@ _OakSpeechText3::
 	para "um mundo de sonhos"
 	line "e aventuras"
 	cont "com #MON esta para"
-	cont "começar! BOA SORTE!"
+	cont "comecar! BOA SORTE!"
 	done
