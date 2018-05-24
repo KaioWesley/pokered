@@ -1,10 +1,12 @@
 _Route1ViridianMartSampleText::
-	text "Oi! Eu trabalho na"
-	line "#MON MART."
+	text "Oi! Eu"
+    line "trabalho na"
+	cont "#MON MART."
 
-	para "E uma loja de"
-	line "conveniencia, por favor"
-	cont "nos visite na"
+	para "E uma loja"
+	line "de conveniencia
+    cont "por favor nos"
+	cont "visite na"
 	cont "VIRIDIAN CITY."
 
 	para "Irei dar uma"
