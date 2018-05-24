@@ -1,28 +1,29 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@@"
+	text "OAK: Ei! Espere!"
+	line "Não entre ai!@@"
 
 _OakWalksUpText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "OAK: Nao e seguro!"
+	line "#MON te"
+	cont "atacam na"
+	cont "grama alta!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Voce precisa ter"
+	line "um #MON para"
+	cont "te proteger."
 
-	para "Here, come with"
-	line "me!"
+	para "Venha,"
+	line "Me siga!"
 	done
 
 _PalletTownText2::
-	text "I'm raising"
-	line "#MON too!"
+	text "Eu treino"
+	line "#MON tambem!"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Quando eles"
+	line "ficarem fortes
+	cont "poderao me"
+	cont "proteger!"
 	done
 
 _PalletTownText3::
@@ -36,20 +37,21 @@ _PalletTownText3::
 	done
 
 _PalletTownText4::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "Prof.OAK"
+	line "Laboratorio de"
+	cont "Pesquisa #MON"
 	done
 
 _PalletTownText5::
 	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	line "A aventura"
+	cont "Comeca aqui!"
 	done
 
 _PalletTownText6::
-	text "<PLAYER>'s house "
+	text "Casa do <PLAYER>'s'"
 	done
 
 _PalletTownText7::
-	text "<RIVAL>'s house "
+	text " Casa do <RIVAL>'s"
 	done
