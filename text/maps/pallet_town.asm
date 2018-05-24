@@ -21,19 +21,19 @@ _PalletTownText2::
 	line "#MON tambem!"
 
 	para "Quando eles"
-	line "ficarem fortes
+	line "ficarem fortes"
 	cont "poderao me"
 	cont "proteger!"
 	done
 
 _PalletTownText3::
-	text "Technology is"
-	line "incredible!"
+	text "A tecnologia"
+	line "e incrivel!"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "Agora voce pode"
+	line "colocar itens"
+	cont "e #MON nos"
+	cont "computadores!"
 	done
 
 _PalletTownText4::
