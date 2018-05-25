@@ -4,7 +4,7 @@ _Route1ViridianMartSampleText::
 	cont "#MON MART."
 
 	para "E uma loja"
-	line "de conveniencia
+	line "de conveniencia"
     cont "por favor nos"
 	cont "visite na"
 	cont "VIRIDIAN CITY."

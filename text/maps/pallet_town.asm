@@ -1,6 +1,6 @@
 _OakAppearsText::
 	text "OAK: Ei! Espere!"
-	line "Não entre ai!@@"
+	line "Nao entre ai!@@"
 
 _OakWalksUpText::
 	text "OAK: Nao e seguro!"
@@ -49,9 +49,9 @@ _PalletTownText5::
 	done
 
 _PalletTownText6::
-	text "Casa do <PLAYER>'s'"
+	text "Casa do <PLAYER>"
 	done
 
 _PalletTownText7::
-	text " Casa do <RIVAL>'s"
+	text " Casa do <RIVAL>"
 	done
