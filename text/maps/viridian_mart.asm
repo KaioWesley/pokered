@@ -1,30 +1,32 @@
 _ViridianMartText1::
-	text "Okay! Say hi to"
-	line "PROF.OAK for me!"
+	text "Ok! Diga oi"
+	line " para o PROF.OAK"
+	cont "por mim"
 	done
 
 _ViridianMartText4::
-	text "Hey! You came from"
+	text "Ei! Voce vem da"
 	line "PALLET TOWN?"
 	done
 
 ViridianMartParcelQuestText::
-	text "You know PROF."
-	line "OAK, right?"
+	text "Conhece o PROF."
+	line "OAK, certo?"
 
-	para "His order came in."
-	line "Will you take it"
-	cont "to him?"
+	para "O pacote chegou."
+	line "Pode entregar"
+	cont "para ele"
+	cont "por mim?"
 
-	para "<PLAYER> got"
+	para "<PLAYER> recebeu"
 	line "OAK's PARCEL!@@"
 
 _ViridianMartText2::
-	text "This shop sells"
-	line "many ANTIDOTEs."
+	text "Esta loja vende"
+	line "muito ANTIDOTEs."
 	done
 
 _ViridianMartText3::
-	text "No! POTIONs are"
-	line "all sold out."
+	text "Os POTIONs"
+	line "acabaram."
 	done

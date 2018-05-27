@@ -1,172 +1,173 @@
 _ViridianCityText1::
-	text "Those # BALLs"
-	line "at your waist!"
-	cont "You have #MON!"
+	text "Essas # BALLs"
+	line "na sua cintura!"
+	cont "Possui #MON!"
 
-	para "It's great that"
-	line "you can carry and"
-	cont "use #MON any"
-	cont "time, anywhere!"
+	para "E otimo"
+	line "poder carregar"
+	cont "#MON em"
+	cont "qualquer lugar!"
 	done
 
 _ViridianCityText_19122::
-	text "This #MON GYM"
-	line "is always closed."
+	text "Este ginasio"
+	line "esta fechado."
 
-	para "I wonder who the"
-	line "LEADER is?"
+	para "Quero saber"
+	line "Quem e o Lider?"
 	done
 
 _ViridianCityText_19127::
-	text "VIRIDIAN GYM's"
-	line "LEADER returned!"
+	text "O lider do"
+	line "ginasio retornou!"
 	done
 
 _ViridianCityText_1914d::
-	text "You want to know"
-	line "about the 2 kinds"
-	cont "of caterpillar"
+	text "Voce conhece os"
+	line "dois tipos de"
+	cont "largata?"
 	cont "#MON?"
 	done
 
 _ViridianCityText_19152::
-	text "Oh, OK then!"
+	text "Oh, OK entao"
 	done
 
 _ViridianCityText_19157::
-	text "CATERPIE has no"
-	line "poison, but"
-	cont "WEEDLE does."
+	text "CATERPIE nao"
+	line "tem veneno, mas"
+	cont "WEEDLE tem."
 
-	para "Watch out for its"
+	para "Cuidado com o"
 	line "POISON STING!"
 	done
 
 _ViridianCityText_19175::
-	text "Oh Grandpa! Don't"
-	line "be so mean!"
-	cont "He hasn't had his"
-	cont "coffee yet."
+	text "Oh vovo! Nao seja"
+	line "tao malvado!"
+	cont "Ele nao tomou o"
+	cont "cafe ainda."
 	done
 
 _ViridianCityText_1917a::
-	text "When I go shop in"
-	line "PEWTER CITY, I"
-	cont "have to take the"
-	cont "winding trail in"
+	text "Quando vou para"
+	line " PEWTER CITY, eu"
+	cont "temho que"
+	cont "passar pela"
 	cont "VIRIDIAN FOREST."
 	done
 
 _ViridianCityText_19191::
-	text "You can't go"
-	line "through here!"
+	text "Voce nao pode"
+	line "passar por aqui!"
 
-	para "This is private"
-	line "property!"
+	para "E uma propiedade"
+	line "particular!"
 	done
 
 _ViridianCityText_191ca::
 	text "Yawn!"
-	line "I must have dozed"
-	cont "off in the sun."
+	line "Eu devo ter"
+	cont "dormido no sol."
 
-	para "I had this dream"
-	line "about a DROWZEE"
-	cont "eating my dream."
-	cont "What's this?"
-	cont "Where did this TM"
-	cont "come from?"
+	para "Eu tive um sonho"
+	line "sobre um DROWZEE"
+	cont "comendo meu"
+	cont "sonho"
+	cont "Oque e isto?"
+	cont "De onde veio"
+	cont "esta TM?"
 
-	para "This is spooky!"
-	line "Here, you can"
-	cont "have this TM."
+	para "Isto e assustador!"
+	line "Por favor fique"
+	cont "com essa TM."
 	prompt
 
 _ReceivedTM42Text::
-	text "<PLAYER> received"
+	text "<PLAYER> recebeu"
 	line "TM42!@@"
 
 _TM42Explanation::
-	text "TM42 contains"
+	text "TM42 contem"
 	line "DREAM EATER..."
-	cont "...Snore..."
+	cont "...Yawn..."
 	done
 
 _TM42NoRoomText::
-	text "You have too much"
-	line "stuff already."
+	text "Sua mochila"
+	line "esta cheia."
 	done
 
 _ViridianCityText_1920a::
-	text "Ahh, I've had my"
-	line "coffee now and I"
-	cont "feel great!"
+	text "Ahh, Consegui o meu"
+	line "cafe e estou me"
+	cont "sentindo melhor!"
 
-	para "Sure you can go"
-	line "through!"
+	para "Claro que voce"
+	line "pode passar!"
 
-	para "Are you in a"
-	line "hurry?"
+	para "esta com"
+	line "pressa?"
 	done
 
 _ViridianCityText_1920f::
-	text "I see you're using"
-	line "a #DEX."
+	text "Vejo que uma"
+	line "uma #DEX."
 
-	para "When you catch a"
-	line "#MON, #DEX"
-	cont "is automatically"
-	cont "updated."
+	para "Quando pega um"
+	line "#MON, a #DEX"
+	cont "e atualizada."
+	cont "automaticamente."
 
-	para "What? Don't you"
-	line "know how to catch"
+	para "Oque? Nao sabe"
+	line "pegar um"
 	cont "#MON?"
 
-	para "I'll show you"
-	line "how to then."
+	para "Vou te ensinar"
+	line "entao."
 	done
 
 _ViridianCityText_19214::
-	text "Time is money..."
-	line "Go along then."
+	text "Tempo e dinheiro"
+	line "Vamos indo."
 	done
 
 _ViridianCityText_19219::
-	text "First, you need"
-	line "to weaken the"
-	cont "target #MON."
+	text "Primeiro, voce"
+	line "precisa enfraquecer"
+	cont "o #MON."
 	done
 
 _ViridianCityText8::
 	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	line "Eterno"
+	cont "Paraiso verde"
 	done
 
 _ViridianCityText9::
-	text "TRAINER TIPS"
+	text "DICAS"
 
-	para "Catch #MON"
-	line "and expand your"
-	cont "collection!"
+	para "Pegue #MON"
+	line "e expanda sua"
+	cont "colecao!"
 
-	para "The more you have,"
-	line "the easier it is"
-	cont "to fight!"
+	para "Quanto mais,"
+	line "tiver sera"
+	cont "melhor!"
 	done
 
 _ViridianCityText10::
-	text "TRAINER TIPS"
+	text "DICAS"
 
-	para "The battle moves"
-	line "of #MON are"
-	cont "limited by their"
-	cont "POWER POINTs, PP."
+	para "Os movimentos em"
+	line "batalha #MON sao"
+	cont "limitados por PP"
+	cont "ou POWER POINTs."
 
-	para "To replenish PP,"
-	line "rest your tired"
-	cont "#MON at a"
-	cont "#MON CENTER!"
+	para "Para recuperar PP,"
+	line "voce precisa levar"
+	cont "seu #MON a"
+	cont "um #MON CENTER!"
 	done
 
 _ViridianCityText13::
@@ -175,6 +176,6 @@ _ViridianCityText13::
 	done
 
 _ViridianCityText14::
-	text "The GYM's doors"
-	line "are locked..."
+	text "As portas estao"
+	line "trancadas..."
 	done
