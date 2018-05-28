@@ -99,7 +99,7 @@ _TM42NoRoomText::
 	done
 
 _ViridianCityText_1920a::
-	text "Ahh, Consegui o meu"
+	text "Consegui tomar"
 	line "cafe e estou me"
 	cont "sentindo melhor!"
 
@@ -134,8 +134,8 @@ _ViridianCityText_19214::
 
 _ViridianCityText_19219::
 	text "Primeiro, voce"
-	line "precisa enfraquecer"
-	cont "o #MON."
+	line "precisa deixar"
+	cont "o #MON fraco."
 	done
 
 _ViridianCityText8::

@@ -1,16 +1,16 @@
 _ViridianHouseText1::
-	text "Coming up with"
-	line "nicknames is fun,"
-	cont "but hard."
+	text "Dar apelidos"
+	line "e divertido,"
+	cont "mas dificil."
 
-	para "Simple names are"
-	line "the easiest to"
-	cont "remember."
+	para "Nomes simples"
+	line "sao mais faceis"
+	cont "de lembrar"
 	done
 
 _ViridianHouseText2::
-	text "My Daddy loves"
-	line "#MON too."
+	text "Meu pai ama"
+	line "#MON tambem."
 	done
 
 _ViridianHouseText_1d5b1::
