@@ -1,6 +1,6 @@
 _ViridianForestEntranceText1::
 	text "Esta indo para a"
-	line "FLORESTA VERIDIANA?"
+	line "FLORESTA VERIDIAN?"
 	cont "Cuidado, aquilo e"
 	cont "um labirinto natural"
 	done

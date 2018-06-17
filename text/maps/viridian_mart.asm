@@ -1,6 +1,6 @@
 _ViridianMartText1::
 	text "Ok! Diga oi"
-	line " para o PROF.OAK"
+	line "para o PROF.OAK"
 	cont "por mim"
 	done
 

@@ -1,66 +1,67 @@
 _ViridianGymText_74ace::
-	text "Fwahahaha! This is"
-	line "my hideout!"
+	text "Muahahaha! Este e"
+	line "meu esconderijo!"
 
-	para "I planned to"
-	line "resurrect TEAM"
-	cont "ROCKET here!"
+	para "Eu planejei"
+	line "ressuscitar a"
+	cont "Equipe Rocket aqui!"
 
-	para "But, you have"
-	line "caught me again!"
-	cont "So be it! This"
-	cont "time, I'm not"
-	cont "holding back!"
+	para "Mas, voce me"
+	line "pegou de novo!"
+	cont "Assim seja!"
+	cont "Desta vez, nao"
+	cont "irei me segurar!"
 
-	para "Once more, you"
-	line "shall face"
-	cont "GIOVANNI, the"
-	cont "greatest trainer!"
+	para "Dessa vez, voce"
+	line "ira perder para"
+	cont "GIOVANNI, o"
+	cont "grande treinador!"
 	done
 
 _ViridianGymText_74ad3::
-	text "Ha!"
-	line "That was a truly"
-	cont "intense fight!"
-	cont "You have won!"
-	cont "As proof, here is"
-	cont "the EARTHBADGE!@@"
+	text "Hm!"
+	line "Essa foi uma"
+	cont "batalha intensa!"
+	cont "Mas voce ganhou!"
+	cont "Como prova, aqui"
+	cont "esta EARTHBADGE!@@"
 
 _ViridianGymText_74ad9::
-	text "Having lost, I"
-	line "cannot face my"
-	cont "underlings!"
-	cont "TEAM ROCKET is"
-	cont "finished forever!"
+	text "Perdi, eu nao"
+	line "poderei ver mais"
+	cont "meus subordinados!"
+	cont "Equipe Rocket"
+	cont "acabou pra sempre!"
 
-	para "I will dedicate my"
-	line "life to the study"
-	cont "of #MON!"
+	para "Dedicarei minha"
+	line "vida para estudar"
+	cont "os #MON!"
 
-	para "Let us meet again"
-	line "some day!"
-	cont "Farewell!@@"
+	para "Nos veremos de novo."
+	line "Ate algum dia!"
+	cont "Adeus!@@"
 
 _ViridianGymText12::
-	text "The EARTHBADGE"
-	line "makes #MON of"
-	cont "any level obey!"
+	text "A EARTHBADGE"
+	line "faz #MON de"
+	cont "qualquer nivel"
+	cont "obedece-lo!"
 
-	para "It is evidence of"
-	line "your mastery as a"
-	cont "#MON trainer!"
+	para "e uma evidencia"
+	line "que voce e um"
+	cont "treinador #MON!"
 
-	para "With it, you can"
-	line "enter the #MON"
-	cont "LEAGUE!"
+	para "Com isso, voce pode"
+	line "entrar na"
+	cont "Liga #MON!"
 
-	para "It is my gift for"
-	line "your #MON"
-	cont "LEAGUE challenge!"
+	para "Este e um presente"
+	line "meu para seu"
+	cont "#MON!"
 	done
 
 _ReceivedTM27Text::
-	text "<PLAYER> received"
+	text "<PLAYER> recebeu"
 	line "TM27!@@"
 
 _TM27ExplanationText::

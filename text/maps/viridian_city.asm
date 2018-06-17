@@ -52,7 +52,7 @@ _ViridianCityText_19175::
 _ViridianCityText_1917a::
 	text "Quando vou para"
 	line " PEWTER CITY, eu"
-	cont "temho que"
+	cont "tenho que"
 	cont "passar pela"
 	cont "VIRIDIAN FOREST."
 	done
