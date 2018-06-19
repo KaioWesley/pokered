@@ -15,7 +15,7 @@ _MomWakeUpText::
 _MomHealText1::
 	text "MOM: <PLAYER>!"
 	line "Voce deveria"
-	cont "descansar um pouco."
+	cont "descansar agora."
 	prompt
 
 _MomHealText2::
@@ -27,8 +27,9 @@ _MomHealText2::
 	done
 
 _StandByMeText::
-	text "Esta passando um"
-	line "filme. uma famulia"
+	text "Esta passando"
+	line "um filme."
+	cont "Uma familia"
 	cont "esta correndo"
 	cont "de alienigenas."
 

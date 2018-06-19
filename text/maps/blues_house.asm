@@ -30,12 +30,13 @@ _DaisyUseMapText::
 
 _BluesHouseText2::
 	text "#MON esta vivo"
-	line "If they"
+	line "Se eles"
 	cont "cansarem, de"
 	cont "um descanso"
 	done
 
 _BluesHouseText3::
 	text "E um mapa grande!"
-	line "Sera util a sua jornada!"
+	line "Sera util na"
+	cont "jornada!"
 	done

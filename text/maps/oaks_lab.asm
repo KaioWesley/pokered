@@ -16,8 +16,8 @@ _OaksLabText40::
 
 _OaksLabText41::
 	text "<RIVAL>: Meu"
-	line "#MON concerteza"
-	cont "e mais forte."
+	line "#MON e muito"
+	cont "mais forte."
 	done
 
 _OaksLabText39::
